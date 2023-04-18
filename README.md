@@ -1,2 +1,2 @@
 # SSL
-seteo taller
+Este es el repositorio del alumno Muñoz Román
