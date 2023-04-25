@@ -1,3 +1,3 @@
-Compilador: gcc (en Windows),  
+Compilador: gcc version 12.2.0 (trabajando en Windows),  
 Configurado para estándar: c2x,  
-Msys2 actualizado.
+Usando entorno ucrt64
